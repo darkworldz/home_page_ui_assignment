@@ -3,6 +3,7 @@
 A new Flutter project.
 
 [Demo Video](demo.mp4)
+https://raw.githubusercontent.com/darkworldz/home_page_ui_assignment/refs/heads/main/demo.mp4
 
 
 
