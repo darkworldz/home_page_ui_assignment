@@ -1,6 +1,8 @@
 # home_page_ui_assignment
 
 A new Flutter project.
+[Click here to watch the video](demo.mp4)
+
 
 ## Getting Started
 
