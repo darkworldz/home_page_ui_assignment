@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![Demo Video](demo.gif)
+[Demo Video](demo.mp4)
 
 
 
